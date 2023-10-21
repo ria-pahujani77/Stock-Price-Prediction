@@ -21,6 +21,7 @@ This project implements a stock price prediction model for Asian Paints using Lo
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn tensorflow
+```
 
 ## Contents
 stock_price_prediction.ipynb: Jupyter Notebook script for predicting stock prices.
