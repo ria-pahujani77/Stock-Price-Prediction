@@ -3,6 +3,7 @@
 ## Overview
 
 This project implements a stock price prediction model for Asian Paints using Long Short-Term Memory (LSTM) neural networks. The prediction model is built using TensorFlow and trained on historical stock price data.
+The project is in the other brach - master.
 
 ## Requirements
 
