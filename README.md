@@ -24,5 +24,8 @@ pip install numpy pandas matplotlib scikit-learn tensorflow
 ```
 
 ## Contents
-stock_price_prediction.ipynb: Jupyter Notebook script for predicting stock prices.
-AsianPaints.csv: Example CSV file containing historical Asian Paints stock data.
+- stock_price_prediction.ipynb: Jupyter Notebook script for predicting stock prices.
+- AsianPaints.csv: Example CSV file containing historical Asian Paints stock data.
+
+## Disclaimer
+This project is for educational purposes only. Predicting stock prices is inherently uncertain, and the model's predictions may not be accurate. Use the code and predictions at your own risk.
